@@ -1,0 +1,21 @@
+generated: '2026-10-21'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://qworum.net/en/plans/
+sources:
+- https://qworum.net/en/plans/
+- https://qworum.net/en/plans/
+name: Qworum pricing
+audience: developer-api
+pricing_basis: free
+plans:
+- name: Qworum Ore
+  price_text: FREE
+  description: Develop and run Qworum applications and services on your local machine.
+- name: Qworum Alloy
+  price_text: 290 USD per DNS domain per month
+  price: 290
+  description: Your website(s) become part of Qworum's Service Web. Your website(s) can use the Qworum features of Web browsers. Your website(s)
+    can host Qworum APIs. Your website(s) can call Qworum APIs hosted on other websites. Other websites can call your Qworum APIs. Plus all Qworum
+    Ore features.
+docs: https://qworum.net/en/plans/
